@@ -6,6 +6,17 @@ export const Form = styled(Unform)`
   display: flex;
   flex-direction: column;
 
+  /* div {
+    input[name='price'] {
+      max-width: 290px;
+    }
+  } */
+
+  label {
+    font-size: 16px;
+    color: #6c6c80;
+  }
+
   h1 {
     font-weight: 600;
     font-size: 36px;

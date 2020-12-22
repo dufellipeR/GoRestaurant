@@ -23,6 +23,20 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "Caseiro",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "description": "Macarrão com pimentão , ao molho barbecue e carne de gado",
+      "price": "15.50",
+      "id": 4
+    },
+    {
+      "name": "",
+      "image": "",
+      "description": "",
+      "price": "",
+      "id": 5
     }
   ]
 }
